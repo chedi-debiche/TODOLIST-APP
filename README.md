@@ -1,32 +1,61 @@
-<<<<<<< HEAD
-# Essentials
+# 📝 Task Management App (Angular)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+![Task Management Preview](./src/assets/preview.png)
 
-## Development server
+## 📖 Description
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+**Task Management App** est une application Angular moderne permettant de **gérer facilement ses tâches quotidiennes**.  
+Elle a été conçue pour être simple, intuitive et élégante, tout en intégrant les **principaux concepts d’Angular** (composants, services, data binding, directives, etc.).
 
-## Code scaffolding
+Les utilisateurs peuvent **sélectionner un profil**, **ajouter**, **consulter**, **terminer** et **supprimer** des tâches, avec une interface colorée et fluide.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## 🚀 Fonctionnalités
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- 👤 Sélection d’un utilisateur et affichage de ses tâches.  
+- ➕ Ajout d’une nouvelle tâche (titre, description, date).  
+- ✅ Marquage des tâches comme terminées.  
+- ❌ Suppression d’une tâche.  
+- 💾 Données gérées via un service Angular (simulation locale).  
+- 🎨 Interface moderne avec un thème violet/bleu dégradé.
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🧠 Technologies utilisées
 
-## Running end-to-end tests
+| Catégorie | Outils / Librairies |
+|------------|--------------------|
+| Framework | **Angular 17+** |
+| Langage | **TypeScript** |
+| Styles | **CSS3 / SCSS / TailwindCSS (optionnel)** |
+| Outils | **Angular CLI**, **VS Code**, **Git & GitHub** |
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+---
 
-## Further help
+## ⚙️ Installation & exécution
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-=======
-# TODOLIST-APP
-La To-Do List App est une application web développée avec Angular permettant aux utilisateurs de créer, visualiser, modifier et supprimer des tâches de manière simple et intuitive. 
->>>>>>> 1f9c7042bc86a0a514a35de0134679db5a291b98
+### 1️⃣ Cloner le dépôt
+```bash
+git clone https://github.com/chedi-debiche/TODOLIST-APP.git
+cd TODOLIST-APP
+### 2️⃣ Installer les dépendances
+npm install
+### 3️⃣ Lancer le serveur de développement
+npm start 
+➡️ Ouvre http://localhost:4200 dans ton navigateur.
+
+
+🌈 Aperçu visuel
+
+Interface moderne avec gestion des utilisateurs, ajout et suppression de tâches, et thème sombre élégant.
+
+🧠 Améliorations futures
+
+🔐 Authentification des utilisateurs
+
+☁️ Connexion à un backend (Node.js, Firebase, ou .NET)
+
+📱 Version responsive mobile
+
+💡 Ajout de notifications et de filtres par statut
