@@ -1,9 +1,4 @@
 
-<img width="947" height="795" alt="Capture d’écran 2025-10-31 142622" src="https://github.com/user-attachments/assets/a130867f-062c-44d5-a450-e1f20381b15d" />
-<img width="881" height="762" alt="Capture d’écran 2025-10-31 142637" src="https://github.com/user-attachments/assets/74730920-62e7-4463-b3bf-75060e4d9207" />
-<img width="954" height="766" alt="Capture d’écran 2025-10-31 142509" src="https://github.com/user-attachments/assets/af8cea5a-03d6-4234-b9f7-deb66e23f724" />
-
-
 # 📝 Task Management App (Angular)
 
 ![Task Management Preview](./src/assets/preview.png)
@@ -14,6 +9,10 @@
 Elle a été conçue pour être simple, intuitive et élégante, tout en intégrant les **principaux concepts d’Angular** (composants, services, data binding, directives, etc.).
 
 Les utilisateurs peuvent **sélectionner un profil**, **ajouter**, **consulter**, **terminer** et **supprimer** des tâches, avec une interface colorée et fluide.
+
+
+<img width="881" height="762" alt="Capture d’écran 2025-10-31 142637" src="https://github.com/user-attachments/assets/74730920-62e7-4463-b3bf-75060e4d9207" />
+<img width="947" height="795" alt="Capture d’écran 2025-10-31 142622" src="https://github.com/user-attachments/assets/a130867f-062c-44d5-a450-e1f20381b15d" />
 
 ---
 
